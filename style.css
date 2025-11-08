@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+    
+}
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 5%;
+}
+header h1{
+    font-size: 50px;
+}
+footer{
+    margin: 20px;
+}
+div{
+    color: grey;
+    padding: 5px;
+}
+main{
+    padding: 10px;
+}
